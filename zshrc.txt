@@ -45,6 +45,8 @@ alias mini='~/mini-moulinette/mini-moul.sh'
 alias gitall="git add . && git commit -m \'600\' && git push"
 alias fzf="fzf --preview 'batcat --color=never --style=numbers {}'"
 alias py="python3"
+alias sshome="ssh fsitter@89.58.7.133 -p 4242"
+
 
 # Generated for envman. Do not edit.
 [ -s "$HOME/.config/envman/load.sh" ] && source "$HOME/.config/envman/load.sh"
